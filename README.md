@@ -1,6 +1,6 @@
 # webapp
 
-A new Flutter project.
+A new Flutter project intended to learn flutter through it. This will be the portfolio webapp to show and develop as I im learning Dart + Flutter.
 
 ## Getting Started
 
